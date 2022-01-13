@@ -10,6 +10,7 @@ import android.webkit.WebViewClient
 import androidx.core.content.ContextCompat.startActivity
 
 
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
